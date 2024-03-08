@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Migrations\\20240308184230_MigraDataBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiExercicio\\Migrations\\20240308184230_MigraDataBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE96CC91-E1B4-440A-85F8-3257C3227485}|ApiExercicio\\ApiExercicio.csproj|c:\\users\\senai3em\\desktop\\api\\apiexercicio\\apiexercicio\\data\\map\\usuariomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE96CC91-E1B4-440A-85F8-3257C3227485}|ApiExercicio\\ApiExercicio.csproj|solutionrelative:apiexercicio\\data\\map\\usuariomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE96CC91-E1B4-440A-85F8-3257C3227485}|ApiExercicio\\ApiExercicio.csproj|c:\\users\\senai3em\\desktop\\api\\apiexercicio\\apiexercicio\\data\\map\\produtosmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE96CC91-E1B4-440A-85F8-3257C3227485}|ApiExercicio\\ApiExercicio.csproj|solutionrelative:apiexercicio\\data\\map\\produtosmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE96CC91-E1B4-440A-85F8-3257C3227485}|ApiExercicio\\ApiExercicio.csproj|c:\\users\\senai3em\\desktop\\api\\apiexercicio\\apiexercicio\\data\\map\\pedidosprodutosmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE96CC91-E1B4-440A-85F8-3257C3227485}|ApiExercicio\\ApiExercicio.csproj|solutionrelative:apiexercicio\\data\\map\\pedidosprodutosmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE96CC91-E1B4-440A-85F8-3257C3227485}|ApiExercicio\\ApiExercicio.csproj|c:\\users\\senai3em\\desktop\\api\\apiexercicio\\apiexercicio\\data\\map\\categoriasmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE96CC91-E1B4-440A-85F8-3257C3227485}|ApiExercicio\\ApiExercicio.csproj|solutionrelative:apiexercicio\\data\\map\\categoriasmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE96CC91-E1B4-440A-85F8-3257C3227485}|ApiExercicio\\ApiExercicio.csproj|c:\\users\\senai3em\\desktop\\api\\apiexercicio\\apiexercicio\\data\\sistematarefasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE96CC91-E1B4-440A-85F8-3257C3227485}|ApiExercicio\\ApiExercicio.csproj|solutionrelative:apiexercicio\\data\\sistematarefasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE96CC91-E1B4-440A-85F8-3257C3227485}|ApiExercicio\\ApiExercicio.csproj|c:\\users\\senai3em\\desktop\\api\\apiexercicio\\apiexercicio\\repositorios\\produtosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE96CC91-E1B4-440A-85F8-3257C3227485}|ApiExercicio\\ApiExercicio.csproj|solutionrelative:apiexercicio\\repositorios\\produtosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE96CC91-E1B4-440A-85F8-3257C3227485}|ApiExercicio\\ApiExercicio.csproj|c:\\users\\senai3em\\desktop\\api\\apiexercicio\\apiexercicio\\repositorios\\interfaces\\iprodutosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE96CC91-E1B4-440A-85F8-3257C3227485}|ApiExercicio\\ApiExercicio.csproj|solutionrelative:apiexercicio\\repositorios\\interfaces\\iprodutosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE96CC91-E1B4-440A-85F8-3257C3227485}|ApiExercicio\\ApiExercicio.csproj|c:\\users\\senai3em\\desktop\\api\\apiexercicio\\apiexercicio\\models\\produtosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE96CC91-E1B4-440A-85F8-3257C3227485}|ApiExercicio\\ApiExercicio.csproj|solutionrelative:apiexercicio\\models\\produtosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE96CC91-E1B4-440A-85F8-3257C3227485}|ApiExercicio\\ApiExercicio.csproj|c:\\users\\senai3em\\desktop\\api\\apiexercicio\\apiexercicio\\repositorios\\pedidosprodutosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE96CC91-E1B4-440A-85F8-3257C3227485}|ApiExercicio\\ApiExercicio.csproj|solutionrelative:apiexercicio\\repositorios\\pedidosprodutosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE96CC91-E1B4-440A-85F8-3257C3227485}|ApiExercicio\\ApiExercicio.csproj|c:\\users\\senai3em\\desktop\\api\\apiexercicio\\apiexercicio\\models\\pedidosprodutosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE96CC91-E1B4-440A-85F8-3257C3227485}|ApiExercicio\\ApiExercicio.csproj|solutionrelative:apiexercicio\\models\\pedidosprodutosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE96CC91-E1B4-440A-85F8-3257C3227485}|ApiExercicio\\ApiExercicio.csproj|c:\\users\\senai3em\\desktop\\api\\apiexercicio\\apiexercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE96CC91-E1B4-440A-85F8-3257C3227485}|ApiExercicio\\ApiExercicio.csproj|solutionrelative:apiexercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Migrations\\20240307174317_MigDataBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiExercicio\\Migrations\\20240307174317_MigDataBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE96CC91-E1B4-440A-85F8-3257C3227485}|ApiExercicio\\ApiExercicio.csproj|c:\\users\\senai3em\\desktop\\api\\apiexercicio\\apiexercicio\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE96CC91-E1B4-440A-85F8-3257C3227485}|ApiExercicio\\ApiExercicio.csproj|solutionrelative:apiexercicio\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE96CC91-E1B4-440A-85F8-3257C3227485}|ApiExercicio\\ApiExercicio.csproj|c:\\users\\senai3em\\desktop\\api\\apiexercicio\\apiexercicio\\controllers\\pedidosprodutoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE96CC91-E1B4-440A-85F8-3257C3227485}|ApiExercicio\\ApiExercicio.csproj|solutionrelative:apiexercicio\\controllers\\pedidosprodutoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE96CC91-E1B4-440A-85F8-3257C3227485}|ApiExercicio\\ApiExercicio.csproj|c:\\users\\senai3em\\desktop\\api\\apiexercicio\\apiexercicio\\models\\pedidosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE96CC91-E1B4-440A-85F8-3257C3227485}|ApiExercicio\\ApiExercicio.csproj|solutionrelative:apiexercicio\\models\\pedidosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240308184230_MigraDataBase.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Migrations\\20240308184230_MigraDataBase.cs",
+              "RelativeDocumentMoniker": "ApiExercicio\\Migrations\\20240308184230_MigraDataBase.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Migrations\\20240308184230_MigraDataBase.cs",
+              "RelativeToolTip": "ApiExercicio\\Migrations\\20240308184230_MigraDataBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T18:42:30.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioMap.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Data\\Map\\UsuarioMap.cs",
+              "RelativeDocumentMoniker": "ApiExercicio\\Data\\Map\\UsuarioMap.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Data\\Map\\UsuarioMap.cs",
+              "RelativeToolTip": "ApiExercicio\\Data\\Map\\UsuarioMap.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T18:41:50.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriasMap.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Data\\Map\\CategoriasMap.cs",
+              "RelativeDocumentMoniker": "ApiExercicio\\Data\\Map\\CategoriasMap.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Data\\Map\\CategoriasMap.cs",
+              "RelativeToolTip": "ApiExercicio\\Data\\Map\\CategoriasMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T18:41:28.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProdutosModel.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Models\\ProdutosModel.cs",
+              "RelativeDocumentMoniker": "ApiExercicio\\Models\\ProdutosModel.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Models\\ProdutosModel.cs",
+              "RelativeToolTip": "ApiExercicio\\Models\\ProdutosModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T14:42:34.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutosMap.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Data\\Map\\ProdutosMap.cs",
+              "RelativeDocumentMoniker": "ApiExercicio\\Data\\Map\\ProdutosMap.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Data\\Map\\ProdutosMap.cs",
+              "RelativeToolTip": "ApiExercicio\\Data\\Map\\ProdutosMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:22:41.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProdutosRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Repositorios\\ProdutosRepositorio.cs",
+              "RelativeDocumentMoniker": "ApiExercicio\\Repositorios\\ProdutosRepositorio.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Repositorios\\ProdutosRepositorio.cs",
+              "RelativeToolTip": "ApiExercicio\\Repositorios\\ProdutosRepositorio.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:19:26.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProdutosRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Repositorios\\Interfaces\\IProdutosRepositorio.cs",
+              "RelativeDocumentMoniker": "ApiExercicio\\Repositorios\\Interfaces\\IProdutosRepositorio.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Repositorios\\Interfaces\\IProdutosRepositorio.cs",
+              "RelativeToolTip": "ApiExercicio\\Repositorios\\Interfaces\\IProdutosRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:19:10.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PedidosProdutosRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Repositorios\\PedidosProdutosRepositorio.cs",
+              "RelativeDocumentMoniker": "ApiExercicio\\Repositorios\\PedidosProdutosRepositorio.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Repositorios\\PedidosProdutosRepositorio.cs",
+              "RelativeToolTip": "ApiExercicio\\Repositorios\\PedidosProdutosRepositorio.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T14:26:53.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SistemaTarefasDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Data\\SistemaTarefasDbContext.cs",
+              "RelativeDocumentMoniker": "ApiExercicio\\Data\\SistemaTarefasDbContext.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Data\\SistemaTarefasDbContext.cs",
+              "RelativeToolTip": "ApiExercicio\\Data\\SistemaTarefasDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:41:44.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PedidosProdutosMap.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Data\\Map\\PedidosProdutosMap.cs",
+              "RelativeDocumentMoniker": "ApiExercicio\\Data\\Map\\PedidosProdutosMap.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Data\\Map\\PedidosProdutosMap.cs",
+              "RelativeToolTip": "ApiExercicio\\Data\\Map\\PedidosProdutosMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T18:25:29.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240307174317_MigDataBase.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Migrations\\20240307174317_MigDataBase.cs",
+              "RelativeDocumentMoniker": "ApiExercicio\\Migrations\\20240307174317_MigDataBase.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Migrations\\20240307174317_MigDataBase.cs",
+              "RelativeToolTip": "ApiExercicio\\Migrations\\20240307174317_MigDataBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:43:17.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PedidosProdutosModel.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Models\\PedidosProdutosModel.cs",
+              "RelativeDocumentMoniker": "ApiExercicio\\Models\\PedidosProdutosModel.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Models\\PedidosProdutosModel.cs",
+              "RelativeToolTip": "ApiExercicio\\Models\\PedidosProdutosModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:24:29.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Program.cs",
+              "RelativeDocumentMoniker": "ApiExercicio\\Program.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Program.cs",
+              "RelativeToolTip": "ApiExercicio\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:33:14.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "ApiExercicio\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "ApiExercicio\\Controllers\\ProdutosController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwDMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:39:38.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PedidosModel.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Models\\PedidosModel.cs",
+              "RelativeDocumentMoniker": "ApiExercicio\\Models\\PedidosModel.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Models\\PedidosModel.cs",
+              "RelativeToolTip": "ApiExercicio\\Models\\PedidosModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:28:11.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PedidosProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Controllers\\PedidosProdutosController.cs",
+              "RelativeDocumentMoniker": "ApiExercicio\\Controllers\\PedidosProdutosController.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\api\\ApiExercicio\\ApiExercicio\\Controllers\\PedidosProdutosController.cs",
+              "RelativeToolTip": "ApiExercicio\\Controllers\\PedidosProdutosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:14:48.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
