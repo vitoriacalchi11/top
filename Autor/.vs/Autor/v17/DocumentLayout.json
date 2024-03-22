@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENAI3EM\\Desktop\\api\\Autor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0100AB-9D2F-4A21-8680-6B7DCEE46B78}|Autor\\Autor.csproj|c:\\users\\senai3em\\desktop\\api\\autor\\autor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0100AB-9D2F-4A21-8680-6B7DCEE46B78}|Autor\\Autor.csproj|solutionrelative:autor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0100AB-9D2F-4A21-8680-6B7DCEE46B78}|Autor\\Autor.csproj|c:\\users\\senai3em\\desktop\\api\\autor\\autor\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0100AB-9D2F-4A21-8680-6B7DCEE46B78}|Autor\\Autor.csproj|solutionrelative:autor\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0100AB-9D2F-4A21-8680-6B7DCEE46B78}|Autor\\Autor.csproj|c:\\users\\senai3em\\desktop\\api\\autor\\autor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C0100AB-9D2F-4A21-8680-6B7DCEE46B78}|Autor\\Autor.csproj|solutionrelative:autor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0100AB-9D2F-4A21-8680-6B7DCEE46B78}|Autor\\Autor.csproj|c:\\users\\senai3em\\desktop\\api\\autor\\autor\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0100AB-9D2F-4A21-8680-6B7DCEE46B78}|Autor\\Autor.csproj|solutionrelative:autor\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0100AB-9D2F-4A21-8680-6B7DCEE46B78}|Autor\\Autor.csproj|c:\\users\\senai3em\\desktop\\api\\autor\\autor\\controllers\\avaliacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0100AB-9D2F-4A21-8680-6B7DCEE46B78}|Autor\\Autor.csproj|solutionrelative:autor\\controllers\\avaliacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0100AB-9D2F-4A21-8680-6B7DCEE46B78}|Autor\\Autor.csproj|c:\\users\\senai3em\\desktop\\api\\autor\\autor\\controllers\\editoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0100AB-9D2F-4A21-8680-6B7DCEE46B78}|Autor\\Autor.csproj|solutionrelative:autor\\controllers\\editoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0100AB-9D2F-4A21-8680-6B7DCEE46B78}|Autor\\Autor.csproj|c:\\users\\senai3em\\desktop\\api\\autor\\autor\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0100AB-9D2F-4A21-8680-6B7DCEE46B78}|Autor\\Autor.csproj|solutionrelative:autor\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0100AB-9D2F-4A21-8680-6B7DCEE46B78}|Autor\\Autor.csproj|c:\\users\\senai3em\\desktop\\api\\autor\\autor\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0100AB-9D2F-4A21-8680-6B7DCEE46B78}|Autor\\Autor.csproj|solutionrelative:autor\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0100AB-9D2F-4A21-8680-6B7DCEE46B78}|Autor\\Autor.csproj|c:\\users\\senai3em\\desktop\\api\\autor\\autor\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0100AB-9D2F-4A21-8680-6B7DCEE46B78}|Autor\\Autor.csproj|solutionrelative:autor\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0100AB-9D2F-4A21-8680-6B7DCEE46B78}|Autor\\Autor.csproj|c:\\users\\senai3em\\desktop\\api\\autor\\autor\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0100AB-9D2F-4A21-8680-6B7DCEE46B78}|Autor\\Autor.csproj|solutionrelative:autor\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\api\\Autor\\Autor\\Program.cs",
+              "RelativeDocumentMoniker": "Autor\\Program.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\api\\Autor\\Autor\\Program.cs",
+              "RelativeToolTip": "Autor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T13:03:56.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\api\\Autor\\Autor\\appsettings.json",
+              "RelativeDocumentMoniker": "Autor\\appsettings.json",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\api\\Autor\\Autor\\appsettings.json",
+              "RelativeToolTip": "Autor\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T12:59:18.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\api\\Autor\\Autor\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Autor\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\api\\Autor\\Autor\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Autor\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:50:42.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReservaController.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\api\\Autor\\Autor\\Controllers\\ReservaController.cs",
+              "RelativeDocumentMoniker": "Autor\\Controllers\\ReservaController.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\api\\Autor\\Autor\\Controllers\\ReservaController.cs",
+              "RelativeToolTip": "Autor\\Controllers\\ReservaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:50:36.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\api\\Autor\\Autor\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Autor\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\api\\Autor\\Autor\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Autor\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:50:28.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LivroController.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\api\\Autor\\Autor\\Controllers\\LivroController.cs",
+              "RelativeDocumentMoniker": "Autor\\Controllers\\LivroController.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\api\\Autor\\Autor\\Controllers\\LivroController.cs",
+              "RelativeToolTip": "Autor\\Controllers\\LivroController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:50:23.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmprestimoController.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\api\\Autor\\Autor\\Controllers\\EmprestimoController.cs",
+              "RelativeDocumentMoniker": "Autor\\Controllers\\EmprestimoController.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\api\\Autor\\Autor\\Controllers\\EmprestimoController.cs",
+              "RelativeToolTip": "Autor\\Controllers\\EmprestimoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:50:17.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditoraController.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\api\\Autor\\Autor\\Controllers\\EditoraController.cs",
+              "RelativeDocumentMoniker": "Autor\\Controllers\\EditoraController.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\api\\Autor\\Autor\\Controllers\\EditoraController.cs",
+              "RelativeToolTip": "Autor\\Controllers\\EditoraController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:50:10.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AvaliacaoController.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\api\\Autor\\Autor\\Controllers\\AvaliacaoController.cs",
+              "RelativeDocumentMoniker": "Autor\\Controllers\\AvaliacaoController.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\api\\Autor\\Autor\\Controllers\\AvaliacaoController.cs",
+              "RelativeToolTip": "Autor\\Controllers\\AvaliacaoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:50:05.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutorController.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\api\\Autor\\Autor\\Controllers\\AutorController.cs",
+              "RelativeDocumentMoniker": "Autor\\Controllers\\AutorController.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\api\\Autor\\Autor\\Controllers\\AutorController.cs",
+              "RelativeToolTip": "Autor\\Controllers\\AutorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:49:57.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
